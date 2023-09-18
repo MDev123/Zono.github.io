@@ -1,9 +1,9 @@
 ---
 title: TOS
-description: Our pivate policy and TOS.
+description: Our privacy policy and TOS.
 ---
-:::tip[None!]
-sorry wha?
+:::tip[Follow the rules!]
+Not following the rules may result is a ban from all our bots.
 :::
 ---
 
